@@ -1,0 +1,4 @@
+Esta linea tiene numeros -1 1 +2 12
+Este fichero nos vale para simular la lectura del mismo.
+EL fichero cuenta con dos lineas para compronar como se hace la lectura completa de este.
+Cierro fichero.

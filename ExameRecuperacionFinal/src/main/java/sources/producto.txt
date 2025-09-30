@@ -1,0 +1,5 @@
+Camiseta,10.7,5
+Pantalon,7.3,8
+Calcetines,3.5,2
+Calzones,3,4
+Gorras,8.2,2
