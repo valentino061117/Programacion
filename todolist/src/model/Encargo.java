@@ -52,5 +52,4 @@ public class Encargo {
         System.out.println("descripcion = " + descripcion);
         System.out.println("completa = " + completa);
     }
-    //hola
 }

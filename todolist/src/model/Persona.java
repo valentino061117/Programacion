@@ -1,7 +1,9 @@
 package model;
 
 public class Persona {
-    private String nombre,apellido,dni;
+    private String nombre;
+    private String apellido;
+    private String dni;
     private int edad;
 
     public Persona() {
@@ -13,7 +15,6 @@ public class Persona {
         this.dni = dni;
         this.edad = edad;
     }
-
 
     public String getNombre() {
         return nombre;
